@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elys0054
+- 👋 Hi, I’m Md. Muharrim Nahal
 - 👀 I’m interested in C,Python and Java
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Machine Learning
